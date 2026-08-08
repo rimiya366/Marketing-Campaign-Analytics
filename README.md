@@ -91,5 +91,4 @@ Business Storytelling
 ## PREVIEW DASHBOARD
 
 
-```markdown
-![Marketing Campaign Dashboard](images/dashboard.png)
+![Marketing Campaign Dashboard](dashboard_marketing.png)
