@@ -53,3 +53,43 @@ Power BI Dashboard
         ↓
 Marketing Recommendations
 ``` 
+### 🚀 Skills Demonstrated
+
+## Data Analytics
+
+Data Cleaning
+Exploratory Data Analysis
+Feature Engineering
+Customer Segmentation
+Business Analysis
+
+## SQL
+
+Aggregations
+GROUP BY
+CASE statements
+Customer segmentation
+Campaign analysis
+Business KPI analysis
+
+## Python
+
+Pandas
+Data transformation
+RFM analysis
+Customer scoring
+Visualization
+
+## Power BI
+
+Dashboard Design
+DAX Measures
+KPI Cards
+Interactive Filters
+Business Storytelling
+
+## PREVIEW DASHBOARD
+
+
+```markdown
+![Marketing Campaign Dashboard](images/dashboard.png)
